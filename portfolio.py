@@ -181,6 +181,7 @@ elif page == "Projects":
     - Built and deployed an ML model to tackle an imbalanced dataset (SMOTE + Random Forest)
     - Achieved **F1-score of 0.82**, improving baseline by 25%
     - Used **GridSearchCV** for hyperparameter tuning and deployed via **Streamlit** with <2s prediction time
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/Coustmer-churn-predictor) 
     """)
 
     st.subheader("📌 Power BI Business Dashboard – TATA Forage")
@@ -189,34 +190,39 @@ elif page == "Projects":
     - Revealed a 15% drop in Q3 sales and proposed strategies for a 5% improvement in revenue
     """)
 
-    st.subheader("📌 Housing Price Predictor – Linear Regression")
+    st.subheader("📌 Titanic Survval Project – Linear Regression")
     st.write("""
     - Used **Scikit-learn** for regression modeling and evaluated with **R² and MSE**
     - Cleaned and visualized data using Pandas and Seaborn
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/ML-Projects/tree/main/Linear_regression_titanic_project) 
     """)
 
-    st.subheader("📌 Titanic Survival Predictor – Logistic Regression")
+    st.subheader("📌 Loan Approval Project – Logistic Regression")
     st.write("""
-    - Applied **Logistic Regression** to predict survival with 78% accuracy
+    - Applied **Logistic Regression** to predict survival with 79% accuracy
     - Used sklearn pipelines and preprocessing techniques
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/ML-Projects/tree/main/Logistic_regression_Loan_approval_project) 
     """)
 
-    st.subheader("📌 Health Data Analysis – Decision Tree (Pre-Pruning)")
+    st.subheader("📌 Bank Full dataset – Decision Tree (Pre-Pruning)")
     st.write("""
     - Built pre-pruned **Decision Tree Classifier** for health dataset analysis
     - Visualized patterns and risk factors with Seaborn and Matplotlib
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/ML-Projects/tree/main/Decision_tree_pre_prunning)
     """)
 
     st.subheader("📌 Decision Tree Classifier – Post-Pruning")
     st.write("""
     - Implemented **Post-pruning** to reduce overfitting and improve accuracy
     - Reduced model complexity while maintaining strong evaluation scores
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/ML-Projects)
     """)
 
     st.subheader("📌 NumPy and Pandas EDA Project")
     st.write("""
     - Performed deep exploratory data analysis on large datasets
     - Handled missing values and visualized insights through plots
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang/ML-Projects)
     """)
 
 # ---------- RESUME PAGE ---------- #
@@ -230,7 +236,7 @@ elif page == "Resume":
     **Email:** Atishay.jainn.1008@gmail.com  
     **Phone:** +91-9084907534  
     **Location:** New Delhi, INDIA  
-    **GitHub:** [AtishaJain](https://github.com/Atishaygang)  
+    **GitHub:** [AtishayJain](https://github.com/Atishaygang)  
     **LinkedIn:** [Atishay Jain](https://www.linkedin.com/in/atishay-jain-718014313/)
     """)
     
